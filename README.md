@@ -89,7 +89,8 @@ results.show()  # Shows the image with predictions
 
 ### Model 1: Excellent Results
 - The first model achieved **high accuracy** on the validation set, showing strong performance for detecting objects.
-- 
+ [Watch the car video](https://github.com/JainamDedhia/ObjectDetection/blob/main/car.avi)
+
 
 ### Model 2: Good Results
 - The second model showed **solid accuracy** with a slightly lower performance compared to Model 1, but still sufficient for most tasks.
